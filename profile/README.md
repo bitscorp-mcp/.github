@@ -34,7 +34,7 @@ Ready to transform your business with expert development consulting?
 
 - **Website**: [bitscorp.co](https://bitscorp.co)
 - **Email**: [contact@bitscorp.co](mailto:contact@bitscorp.co)
-- **Location**: [Your Location]
+- **Location**: Barcelona, Spain
 
 ## Connect With Us
 
