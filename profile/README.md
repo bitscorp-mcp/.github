@@ -33,7 +33,7 @@ Bitscorp.co is an organization of skilled developers providing expert consulting
 Ready to transform your business with expert development consulting?
 
 - **Website**: [bitscorp.co](https://bitscorp.co)
-- **Email**: [contact@bitscorp.co](mailto:alex@bitscorp.co)
+- **Email**: [alex@bitscorp.co](mailto:alex@bitscorp.co)
 - **Location**: Barcelona, Spain
 
 ## Connect With Us
